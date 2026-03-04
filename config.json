@@ -1,0 +1,20 @@
+{
+  "staff_role_id": 0,
+  "ticket_category_id": 0,
+  "orders_channel_id": 0,
+  "reviews_channel_id": 0,
+  "announcements_channel_id": 0,
+  "colors": {
+    "success": 5763719,
+    "error": 15548997,
+    "info": 3447003,
+    "warning": 16776960
+  },
+  "order_types": [
+    "Server Vanilla",
+    "Server Modded",
+    "Server Plugin",
+    "Server Network",
+    "Configurazione Custom"
+  ]
+}
